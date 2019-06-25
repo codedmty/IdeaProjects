@@ -1,0 +1,9 @@
+Mail birthday card	BUY A 30TH BIRTHDAY CARD FOR JOHN	20-06-2019
+Doctor's Appointment	SEE DR. SMITH AT 123 MAIN ST. BRING PAPERWORK	04-07-2019
+Pick up Doug at Train Station	DOUG IS ARRIVING AT THE TRAIN STATION ON MARCH 23RD	23-03-2019
+Pick up dry cleaning	BUY A 30TH BIRTHDAY CARD FOR JOHN	20-06-2019
+Finish Design Proposal	I PROMISED MIKE I WOULD EMAIL THE WEBSITE MOCKUP BY AUG 1ST.	01-08-2019
+Testing	This is a test, only a test	25-06-2019
+My New Todo Item	This is a new todo item	26-06-2019
+Eddie's Item	This is another test	28-06-2019
+This is another todo item	this is a longer description test just for fun.	27-06-2019
